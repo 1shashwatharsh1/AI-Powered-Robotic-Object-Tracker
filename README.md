@@ -14,6 +14,5 @@ A Python-based project that performs real-time object detection and generates si
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/ai-robot-object-tracker.git
 cd ai-robot-object-tracker
 pip install -r requirements.txt
